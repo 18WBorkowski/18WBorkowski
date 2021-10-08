@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @18WBorkowski
-- 👀 I’m interested in your mom
-- 🌱 I’m currently learning how to do your mom
-- 💞️ I’m looking to collaborate on doing your mom
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning how to ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: smoke signals
 
 <!---
